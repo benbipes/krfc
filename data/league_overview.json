@@ -1,0 +1,267 @@
+{
+  "league_name": "Wolfpack Fans Fantasy Football League (KRFC / WFFFL)",
+  "established": 2001,
+  "total_seasons": 25,
+  "titles": [
+    {
+      "team": "Cubswin",
+      "titles": 5,
+      "years": [
+        "2010",
+        "2014",
+        "2016",
+        "2022",
+        "2024"
+      ]
+    },
+    {
+      "team": "Smokers Express",
+      "titles": 4,
+      "years": [
+        "2009",
+        "2017",
+        "2018",
+        "2025"
+      ]
+    },
+    {
+      "team": "I'll Turn You From a Rooster to a Hen in One Shot",
+      "titles": 4,
+      "years": [
+        "2006",
+        "2013",
+        "2015",
+        "2021"
+      ]
+    },
+    {
+      "team": "Butterbuns",
+      "titles": 4,
+      "years": [
+        "2002",
+        "2004",
+        "2011",
+        "2012"
+      ]
+    },
+    {
+      "team": "Yo Mama Sux",
+      "titles": 3,
+      "years": [
+        "2007",
+        "2008",
+        "2019"
+      ]
+    },
+    {
+      "team": "Dover",
+      "titles": 2,
+      "years": [
+        "2003",
+        "2005"
+      ]
+    },
+    {
+      "team": "The Raging Boos",
+      "titles": 1,
+      "years": [
+        "2023"
+      ]
+    },
+    {
+      "team": "Turd on the Porch",
+      "titles": 1,
+      "years": [
+        "2020"
+      ]
+    },
+    {
+      "team": "Claude's Clangers",
+      "titles": 1,
+      "years": [
+        "2001"
+      ]
+    }
+  ],
+  "all_time_standings": [
+    {
+      "team": "XUING",
+      "w": 205,
+      "l": 169,
+      "t": 0,
+      "pct": 0.548,
+      "pf": 44356.5,
+      "pa": 41951.0,
+      "managers": "Michael Xu (2024-26) (+2)"
+    },
+    {
+      "team": "Smokers Express",
+      "w": 204,
+      "l": 178,
+      "t": 0,
+      "pct": 0.534,
+      "pf": 45420.5,
+      "pa": 44822.0,
+      "managers": "John Proctor (2001-26)"
+    },
+    {
+      "team": "Cubswin",
+      "w": 200,
+      "l": 180,
+      "t": 0,
+      "pct": 0.526,
+      "pf": 44537.5,
+      "pa": 43643.0,
+      "managers": "Dave Jewell (2001-26)"
+    },
+    {
+      "team": "Dover",
+      "w": 195,
+      "l": 177,
+      "t": 0,
+      "pct": 0.524,
+      "pf": 44093.0,
+      "pa": 42740.0,
+      "managers": "Ben Bipes (2013-26) (+1)"
+    },
+    {
+      "team": "1000 Deaths",
+      "w": 197,
+      "l": 184,
+      "t": 0,
+      "pct": 0.517,
+      "pf": 46012.0,
+      "pa": 43861.5,
+      "managers": "Matt Tyson (2001-26)"
+    },
+    {
+      "team": "Butterbuns",
+      "w": 191,
+      "l": 190,
+      "t": 0,
+      "pct": 0.501,
+      "pf": 43175.0,
+      "pa": 43140.5,
+      "managers": "Alex Moise (2001-26)"
+    },
+    {
+      "team": "The Raging Boos",
+      "w": 181,
+      "l": 185,
+      "t": 0,
+      "pct": 0.495,
+      "pf": 41536.0,
+      "pa": 41167.0,
+      "managers": "Blaine Bowers (2012-26) (+2)"
+    },
+    {
+      "team": "Funky Monkeys",
+      "w": 168,
+      "l": 191,
+      "t": 0,
+      "pct": 0.468,
+      "pf": 40858.0,
+      "pa": 41519.5,
+      "managers": "Paul O'Sullivan (2001-26)"
+    },
+    {
+      "team": "Turd on the Porch",
+      "w": 167,
+      "l": 204,
+      "t": 0,
+      "pct": 0.45,
+      "pf": 41033.5,
+      "pa": 43187.5,
+      "managers": "Graham West (2001-26)"
+    },
+    {
+      "team": "The PPE Pounders",
+      "w": 163,
+      "l": 213,
+      "t": 0,
+      "pct": 0.434,
+      "pf": 40486.0,
+      "pa": 43133.0,
+      "managers": "Chris Beatson (2010-26) (+1)"
+    }
+  ],
+  "champions_by_year": {
+    "2025": "Smokers Express",
+    "2024": "Cubswin",
+    "2023": "The Raging Boos",
+    "2022": "Cubswin",
+    "2021": "The Once Great Champ Now a Study in Mopishness",
+    "2020": "The Turd on the Porch",
+    "2019": "Paper Tigers, Wispy Dragons",
+    "2018": "Smokers Express",
+    "2017": "Smokers Express",
+    "2016": "Cubswin",
+    "2015": "King Kunta",
+    "2014": "Cubswin",
+    "2013": "Mother Puncher",
+    "2012": "Fecal Freaks",
+    "2011": "Fecal Freaks",
+    "2010": "Cubswin",
+    "2009": "Smokers Express",
+    "2008": "Xuing",
+    "2007": "Xuing",
+    "2006": "The Mantis",
+    "2005": "PIMPS",
+    "2004": "Fecal Freaks",
+    "2003": "PIMPS",
+    "2002": "Fecal Freaks",
+    "2001": "The CAPS"
+  },
+  "consistency": [
+    {
+      "team": "Smokers Express",
+      "avg_finish": 4.3,
+      "avg_pts_year": 1774.3
+    },
+    {
+      "team": "Cubswin",
+      "avg_finish": 4.8,
+      "avg_pts_year": 1748.8
+    },
+    {
+      "team": "XUING",
+      "avg_finish": 5.0,
+      "avg_pts_year": 1740.5
+    },
+    {
+      "team": "1000 Deaths",
+      "avg_finish": 5.0,
+      "avg_pts_year": 1801.8
+    },
+    {
+      "team": "Dover",
+      "avg_finish": 5.1,
+      "avg_pts_year": 1724.1
+    },
+    {
+      "team": "The Raging Boos",
+      "avg_finish": 5.7,
+      "avg_pts_year": 1689.3
+    },
+    {
+      "team": "Butterbuns",
+      "avg_finish": 5.8,
+      "avg_pts_year": 1684.1
+    },
+    {
+      "team": "Turd on the Porch",
+      "avg_finish": 6.2,
+      "avg_pts_year": 1610.1
+    },
+    {
+      "team": "The PPE Pounders",
+      "avg_finish": 6.3,
+      "avg_pts_year": 1591.7
+    },
+    {
+      "team": "Funky Monkeys",
+      "avg_finish": 6.5,
+      "avg_pts_year": 1667.9
+    }
+  ]
+}

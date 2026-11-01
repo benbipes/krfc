@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <!-- Heavy Gold Gradients -->
+    <linearGradient id="goldBand" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#bf8d2c"/>
+      <stop offset="25%" stop-color="#f5d77f"/>
+      <stop offset="50%" stop-color="#dfaa38"/>
+      <stop offset="75%" stop-color="#8a5a14"/>
+      <stop offset="100%" stop-color="#e8c05e"/>
+    </linearGradient>
+
+    <linearGradient id="goldBezel" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffe899"/>
+      <stop offset="30%" stop-color="#d99f26"/>
+      <stop offset="70%" stop-color="#8a570b"/>
+      <stop offset="100%" stop-color="#ffe073"/>
+    </linearGradient>
+
+    <!-- Ruby Red Center Football Gem -->
+    <radialGradient id="rubyGlow" cx="45%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#ff4d4d"/>
+      <stop offset="50%" stop-color="#b80000"/>
+      <stop offset="90%" stop-color="#590000"/>
+      <stop offset="100%" stop-color="#2b0000"/>
+    </radialGradient>
+
+    <!-- Diamond Sparkle Gradient -->
+    <radialGradient id="diamondSpark" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="60%" stop-color="#e0f2fe"/>
+      <stop offset="100%" stop-color="#93c5fd"/>
+    </radialGradient>
+
+    <filter id="ringDropShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="3" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <!-- Heavy Championship Ring Band -->
+  <g filter="url(#ringDropShadow)">
+    <!-- Lower Ring Shank / Loop -->
+    <path d="M 28 55 C 28 80, 72 80, 72 55 L 77 48 C 79 72, 65 92, 50 92 C 35 92, 21 72, 23 48 Z" fill="url(#goldBand)" stroke="#593708" stroke-width="1.2"/>
+    <!-- Band Inner Hole for Depth -->
+    <path d="M 33 55 C 33 76, 67 76, 67 55 C 67 62, 33 62, 33 55 Z" fill="#140b02" opacity="0.8"/>
+
+    <!-- Left Shoulder Carvings / Laurels -->
+    <path d="M 23 48 L 29 28 L 36 34 L 30 52 Z" fill="url(#goldBand)" stroke="#4a2e05" stroke-width="0.8"/>
+    <circle cx="28" cy="40" r="1.5" fill="url(#diamondSpark)"/>
+    <circle cx="31" cy="47" r="1.3" fill="url(#diamondSpark)"/>
+
+    <!-- Right Shoulder Carvings / Laurels -->
+    <path d="M 77 48 L 71 28 L 64 34 L 70 52 Z" fill="url(#goldBand)" stroke="#4a2e05" stroke-width="0.8"/>
+    <circle cx="72" cy="40" r="1.5" fill="url(#diamondSpark)"/>
+    <circle cx="69" cy="47" r="1.3" fill="url(#diamondSpark)"/>
+
+    <!-- Main Octagonal Signet Platform Top Bezel -->
+    <polygon points="32,20 68,20 80,32 80,48 68,60 32,60 20,48 20,32" fill="url(#goldBezel)" stroke="#ffeaa7" stroke-width="1.5"/>
+
+    <!-- Diamond Encrusted Bezel Rim (16 Pavé Diamonds) -->
+    <!-- Top row -->
+    <circle cx="36" cy="23" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <circle cx="43" cy="22.5" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <circle cx="50" cy="22.5" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <circle cx="57" cy="22.5" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <circle cx="64" cy="23" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <!-- Right angled -->
+    <circle cx="73" cy="29" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <circle cx="76" cy="36" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <circle cx="76" cy="44" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <circle cx="73" cy="51" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <!-- Bottom row -->
+    <circle cx="64" cy="57" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <circle cx="57" cy="57.5" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <circle cx="50" cy="57.5" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <circle cx="43" cy="57.5" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <circle cx="36" cy="57" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <!-- Left angled -->
+    <circle cx="27" cy="51" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <circle cx="24" cy="44" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <circle cx="24" cy="36" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+    <circle cx="27" cy="29" r="1.8" fill="url(#diamondSpark)" stroke="#475569" stroke-width="0.3"/>
+
+    <!-- Inner Stepped Gold Rim -->
+    <polygon points="34,26 66,26 74,34 74,46 66,54 34,54 26,46 26,34" fill="#694008" stroke="#ffeaa7" stroke-width="0.8"/>
+
+    <!-- Center Field: Dark Ruby Gemstone Field -->
+    <polygon points="35,27.5 65,27.5 72.5,35 72.5,45 65,52.5 35,52.5 27.5,45 27.5,35" fill="url(#rubyGlow)"/>
+
+    <!-- Center Football Trophy Gemstone -->
+    <!-- Football Shape -->
+    <path d="M 36 40 C 42 32, 58 32, 64 40 C 58 48, 42 48, 36 40 Z" fill="#ffeaa7" stroke="#8a5a14" stroke-width="1.2"/>
+    <path d="M 37.5 40 C 43 33.5, 57 33.5, 62.5 40 C 57 46.5, 43 46.5, 37.5 40 Z" fill="url(#diamondSpark)"/>
+
+    <!-- Football Laces (Gold) -->
+    <line x1="42" y1="40" x2="58" y2="40" stroke="#b45309" stroke-width="1.2"/>
+    <line x1="46" y1="37.5" x2="46" y2="42.5" stroke="#b45309" stroke-width="1"/>
+    <line x1="50" y1="37" x2="50" y2="43" stroke="#b45309" stroke-width="1.2"/>
+    <line x1="54" y1="37.5" x2="54" y2="42.5" stroke="#b45309" stroke-width="1"/>
+
+    <!-- Sparkle Flashes -->
+    <polygon points="50,18 51,21 54,21 51.5,23 52.5,26 50,24 47.5,26 48.5,23 46,21 49,21" fill="#ffffff" opacity="0.9"/>
+    <polygon points="70,30 70.8,32 73,32 71.2,33.5 72,35.5 70,34 68,35.5 68.8,33.5 67,32 69.2,32" fill="#ffffff" opacity="0.85"/>
+  </g>
+</svg>

@@ -1,0 +1,229 @@
+{
+  "season": 2026,
+  "last_updated": "2026-11-01 10:46:28",
+  "live_scoring_url": "https://krfc.football.cbssports.com/scoring/live",
+  "standings": [
+    {
+      "team": "Butterbuns",
+      "manager": "Alex Moise",
+      "w": 5,
+      "l": 2,
+      "t": 0,
+      "pct": 0.714,
+      "gb": "0",
+      "streak": "W1",
+      "high_wks": 1,
+      "pf": 1073.0,
+      "pa": 828.5
+    },
+    {
+      "team": "I'll Turn You From a Rooster to a Hen in One Shot",
+      "manager": "Matt Tyson",
+      "w": 5,
+      "l": 2,
+      "t": 0,
+      "pct": 0.714,
+      "gb": "0",
+      "streak": "W1",
+      "high_wks": 2,
+      "pf": 967.5,
+      "pa": 893.0
+    },
+    {
+      "team": "Smokers Express",
+      "manager": "John Proctor",
+      "w": 5,
+      "l": 2,
+      "t": 0,
+      "pct": 0.714,
+      "gb": "0",
+      "streak": "W2",
+      "high_wks": 2,
+      "pf": 1062.0,
+      "pa": 957.5
+    },
+    {
+      "team": "Yo Mama Sux",
+      "manager": "Michael Xu",
+      "w": 4,
+      "l": 3,
+      "t": 0,
+      "pct": 0.571,
+      "gb": "1",
+      "streak": "L1",
+      "high_wks": 0,
+      "pf": 845.0,
+      "pa": 800.0
+    },
+    {
+      "team": "The Raging Boos",
+      "manager": "Blaine Bowers",
+      "w": 4,
+      "l": 3,
+      "t": 0,
+      "pct": 0.571,
+      "gb": "1",
+      "streak": "L1",
+      "high_wks": 0,
+      "pf": 992.5,
+      "pa": 921.0
+    },
+    {
+      "team": "Funky Monkeys",
+      "manager": "Paul O'Sullivan",
+      "w": 3,
+      "l": 4,
+      "t": 0,
+      "pct": 0.429,
+      "gb": "2",
+      "streak": "L2",
+      "high_wks": 0,
+      "pf": 828.5,
+      "pa": 888.0
+    },
+    {
+      "team": "Dover",
+      "manager": "Ben Bipes",
+      "w": 3,
+      "l": 4,
+      "t": 0,
+      "pct": 0.429,
+      "gb": "2",
+      "streak": "L1",
+      "high_wks": 2,
+      "pf": 991.5,
+      "pa": 997.5
+    },
+    {
+      "team": "Cubswin",
+      "manager": "Dave Jewell",
+      "w": 3,
+      "l": 4,
+      "t": 0,
+      "pct": 0.429,
+      "gb": "2",
+      "streak": "W1",
+      "high_wks": 0,
+      "pf": 818.5,
+      "pa": 894.0
+    },
+    {
+      "team": "Turd on the Porch",
+      "manager": "Graham West",
+      "w": 2,
+      "l": 5,
+      "t": 0,
+      "pct": 0.286,
+      "gb": "3",
+      "streak": "W2",
+      "high_wks": 0,
+      "pf": 780.0,
+      "pa": 996.5
+    },
+    {
+      "team": "Claude's Clangers",
+      "manager": "Chris Beatson",
+      "w": 1,
+      "l": 6,
+      "t": 0,
+      "pct": 0.143,
+      "gb": "4",
+      "streak": "L2",
+      "high_wks": 0,
+      "pf": 693.0,
+      "pa": 875.5
+    }
+  ],
+  "power_rankings": [
+    {
+      "rank": "1",
+      "team": "Butterbuns",
+      "manager": "Alex Moise",
+      "record_pts": "9",
+      "points_pts": "10",
+      "breakdown_pts": "10",
+      "power_score": 29.0
+    },
+    {
+      "rank": "2",
+      "team": "Smokers Express",
+      "manager": "John Proctor",
+      "record_pts": "9",
+      "points_pts": "9",
+      "breakdown_pts": "8.5",
+      "power_score": 26.5
+    },
+    {
+      "rank": "3",
+      "team": "The Raging Boos",
+      "manager": "Blaine Bowers",
+      "record_pts": "6.5",
+      "points_pts": "8",
+      "breakdown_pts": "8.5",
+      "power_score": 23.0
+    },
+    {
+      "rank": "4",
+      "team": "I'll Turn You From a Rooster to a Hen in One Shot",
+      "manager": "Matt Tyson",
+      "record_pts": "9",
+      "points_pts": "6",
+      "breakdown_pts": "6",
+      "power_score": 21.0
+    },
+    {
+      "rank": "5",
+      "team": "Dover",
+      "manager": "Ben Bipes",
+      "record_pts": "4",
+      "points_pts": "7",
+      "breakdown_pts": "7",
+      "power_score": 18.0
+    },
+    {
+      "rank": "6",
+      "team": "Yo Mama Sux",
+      "manager": "Michael Xu",
+      "record_pts": "6.5",
+      "points_pts": "5",
+      "breakdown_pts": "5",
+      "power_score": 16.5
+    },
+    {
+      "rank": "7",
+      "team": "Cubswin",
+      "manager": "Dave Jewell",
+      "record_pts": "4",
+      "points_pts": "3",
+      "breakdown_pts": "4",
+      "power_score": 11.0
+    },
+    {
+      "rank": "7",
+      "team": "Funky Monkeys",
+      "manager": "Paul O'Sullivan",
+      "record_pts": "4",
+      "points_pts": "4",
+      "breakdown_pts": "3",
+      "power_score": 11.0
+    },
+    {
+      "rank": "9",
+      "team": "Turd on the Porch",
+      "manager": "Graham West",
+      "record_pts": "2",
+      "points_pts": "2",
+      "breakdown_pts": "2",
+      "power_score": 6.0
+    },
+    {
+      "rank": "10",
+      "team": "Claude's Clangers",
+      "manager": "Chris Beatson",
+      "record_pts": "1",
+      "points_pts": "1",
+      "breakdown_pts": "1",
+      "power_score": 3.0
+    }
+  ]
+}

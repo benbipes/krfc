@@ -1,0 +1,17 @@
+# Credentials & Secrets
+.env
+.env.*
+
+# Scraped raw dumps (large HTML archives)
+raw_data/
+*.html.bak
+The Fantasy League*
+history.html
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+Thumbs.db
